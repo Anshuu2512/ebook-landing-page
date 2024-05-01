@@ -1,0 +1,405 @@
+#bro{
+    height: 80vh;
+    width: 100%;
+    background-image: url("/Assets/img/businessman-sitting-by-table-cafe.jpg");
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+ }
+ .img-overlay{
+    height: 80vh;
+    width: 100%;
+    background-color: #21252961;
+ }
+
+ .sec1{
+    background-color: rgba(0, 0, 0, 0.408);
+ }
+ 
+ .third{
+    padding-top: 40px;
+} 
+.fir{
+  padding-top: 100px;
+}
+.four{
+    font-weight: 800;
+}
+.anu img{
+    filter: grayscale(70%);
+} 
+ .sri:hover{
+    background-color: rgb(255, 81, 0);
+}
+.done{
+    margin-left: 190px;
+    margin-top:-30px;
+    color: white;
+    font-family: sans-serif;
+   font-size: 25px;
+}
+.done:hover{
+    color: rgb(255, 81, 0);
+    border-bottom: 50%; 
+     text-decoration: underline;
+}
+.short{
+     /* border: 2px solid red;  */
+    height: 680px;
+    width: 60%;
+    background-color:#f4A261;
+    padding-left: 50px;
+    padding-top: 400px;
+}
+.short img{
+    height:60px;
+    width: 7.5%;
+    margin-top: 180px;
+    margin-right: -19px;
+    border: 5px solid white;
+}
+.manu{
+   margin-left: 220px;
+    margin-top: -55px;
+  font-size: 35px;
+    font-family: sans-serif;
+     /* border: 2px solid red;  */
+    width: 7%;
+} 
+.mmm{
+    margin-left: 280px;
+    margin-top: -40px;
+    font-size: 20px;
+}
+.tab{
+    margin-top: -700px;
+    margin-left: 750px;
+}
+.amm img{
+   height: 350px;
+    width: 90%;
+}
+.sadhivi h2{
+    color:#E9C46A;
+}
+.sadhivi{
+    margin-top: 40px;
+ 
+}   
+.section2{
+    text-align: center;
+    padding-top: 130px;
+    padding-bottom: 70px;
+}
+.section2 h2{
+    color:#E9C46A;
+}
+.sec{
+  margin-left: 70px;
+    width: 70%;
+    background-color: rgb(235, 251, 251);
+   margin-top: 20px;
+}
+.set{
+    margin-left: 60px;
+    margin-top: 180px;
+}
+.sec:hover{
+    background-color:#f4A261;
+}
+.core{
+ margin-left: 350px;
+ color:#f4A261;
+ font-size: 30px;
+}
+.name{
+    background-color: rgb(235, 251, 251);
+    width: 80%;
+}
+.po{
+    color:rgba(0, 0, 0, 0.603);
+}
+.kk{
+    color:rgba(0, 0, 0, 0.603);
+}
+.ll{
+    font-size: 40px;
+    color:rgba(0, 0, 0, 0.603);
+}
+.rr{
+    color:rgba(0, 0, 0, 0.603);
+    font-size: 18px;
+}
+.buu img{
+    height: 200px;
+    width: 80%;
+    border-radius: 20px;
+}
+.ss{
+    color:rgba(0, 0, 0, 0.603);
+}
+.maa{
+    color:rgba(0, 0, 0, 0.603);
+    font-size: 35px;
+}
+.bb{
+    font-size: 20px;
+    color:rgba(0, 0, 0, 0.603);
+}
+.vaa img{
+    height: 280px;
+    width: 90%;
+}
+.jii{
+    margin-top: 80px;
+    color:rgba(0, 0, 0, 0.603);
+}
+.lo {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.dot{
+    font-size: 40px;
+    color:rgba(0, 0, 0, 0.603);
+}
+.dog h1 a:hover{
+    color: #E75F56;
+}
+
+.lion a{
+    color:white;
+}
+
+.lion a:hover{
+    color: #E75F56;
+}
+.gg{
+    font-size: 20px;
+    color:rgba(0, 0, 0, 0.603);
+}
+.vin img{
+    height: 500px;
+    width: 90%;
+    border-radius: 20px;
+}
+.fri{
+    font-size: 20px;
+    color:rgba(0, 0, 0, 0.603);
+    padding-top: 20px;
+}
+.suu{
+    font-size: 40px;
+    color:rgba(0, 0, 0, 0.603);
+}
+.lie{
+    font-size: 20px;
+    color:rgba(0, 0, 0, 0.603);
+}
+.hiii{
+    font-size: 20px;
+    color:rgba(0, 0, 0, 0.603);
+    padding-top: 20px;
+}
+.pot{
+    position: relative;
+    margin-left: 200px;
+    margin-top: 100px;
+    border-radius:  600px;
+    border: 10px solid #f8b176;
+}
+.lon{
+    position: absolute;
+}
+.mkk{
+    margin-top: 150px;
+}
+.para{
+    font-size: 20px;
+}
+.mini1{
+    text-align: center;
+}
+.icon{
+    font-size: 20px;
+}
+.stars{
+    /* border: 2px solid red; */
+    margin-top: 170px;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* line-height: 20px; */
+    position: absolute;
+
+}
+.card{
+    height:50vh;
+    width: 25%;
+    background-image: url("/Assets/img/businessman-sitting-by-table-cafe.jpg");
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+
+}
+ .card-img-overlay{
+    height:50vh;
+   
+    background-color: #21252987;
+}
+.cardd{
+    background-color: rgba(255, 68, 0, 0.644) ;
+    width: 10%;
+    height: 125px;
+    position: relative;
+    margin-left: 225px;
+}
+.cardd img{
+    width: 39% ;
+    height: 59px;
+    border: 4px solid white;
+}
+.cardd img,h5{
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+.card2{
+    position: relative;
+    background-color: rgba(255, 68, 0, 0.644) ;
+    width: 10%;
+    height: 127px; 
+    margin-left: 660px; 
+    margin-top: -125px;
+}
+.card2 img{
+    width: 39% ;
+    height: 59px;
+    border: 4px solid white;
+}
+.card2 img,h5{
+    margin-left: 45px;
+    margin-top: 10px;
+}
+.card3{
+    position: relative;
+    background-color: rgba(255, 68, 0, 0.644) ;
+    width: 10%;
+    height: 127px; 
+    margin-left: 1100px; 
+    margin-top: -125px;
+}
+.card3 img{
+    width: 39% ;
+    height: 59px;
+    border: 4px solid white;
+}
+.card3 img,h5{
+    margin-left: 45px;
+    margin-top: 10px;
+}
+.footer{
+    height: 550px;
+    /* border: 2px solid red; */
+    width: 100%;
+    margin-top: 340px;
+    background-color: rgba(255, 68, 0, 0.641);
+}
+.final{
+    font-family:sans-serif;
+    margin-top: 40px;
+}
+.final1{
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.final2{
+ color: white;
+}
+.final2:hover{
+    color:#E75F56 ;
+}
+.final3{
+    color: white;
+}
+.final3:hover{
+    color:#E75F56 ;
+}
+.miy{
+    background-color:#E9C46A ;
+    margin: 0px 10px 0px 0px;
+    font-size:16px;
+    border-radius: 19px;
+    padding: 9px 9px 9px 9px;
+}
+.stastic{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 550px;
+}
+.icons i:hover{
+    background-color: rgba(255, 68, 0, 0.641);
+}
+.final5{
+    color:#E75F56;
+}
+.apply{
+    background-color:white;
+    /* border: 2px solid red; */
+  width:80%;
+height: 400px;
+margin-top: 80px;
+border-radius: 20px;
+}
+.word{
+    border: 1px solid gray;
+    height: 50px;
+    position: absolute;
+    width:25% ;
+    margin-left: 70px;
+    background-color: white ;
+}
+.per{
+    font-size: 20px;
+   position: relative;
+   margin-left: 410px;
+
+}
+.head{
+    text-align: center;
+}
+.word:hover{
+    border: 1px solid red;
+}
+.word::placeholder{
+    font-size: 20px;
+    font-size: bold;
+}
+.mail{
+    border: 1px solid gray;
+    height: 50px;
+    position: absolute;
+    width:25% ;
+    margin-left: 70px;
+    background-color: white ; 
+    margin-top: 60px;
+}
+.per1{
+    font-size: 20px;
+    position: relative;
+    margin-left: 410px;
+    margin-top: 90px;
+}
+.mail:hover{
+    border: 1px solid red;
+}
+.mail::placeholder{
+    font-size: 20px;
+    font-size: bold;
+}
+.lea{
+    margin-top: 150px;
+    color: white;
+    margin-left: 150px;
+    width: 50%;
+    height: 50px;
+}
